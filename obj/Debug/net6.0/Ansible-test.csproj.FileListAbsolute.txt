@@ -1,0 +1,81 @@
+C:\Users\nibba\source\repos\Ansible-test\Ansible-test\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nibba\source\repos\Ansible-test\Ansible-test\bin\Debug\net6.0\appsettings.json
+C:\Users\nibba\source\repos\Ansible-test\Ansible-test\bin\Debug\net6.0\Ansible-test.exe
+C:\Users\nibba\source\repos\Ansible-test\Ansible-test\bin\Debug\net6.0\Ansible-test.deps.json
+C:\Users\nibba\source\repos\Ansible-test\Ansible-test\bin\Debug\net6.0\Ansible-test.runtimeconfig.json
+C:\Users\nibba\source\repos\Ansible-test\Ansible-test\bin\Debug\net6.0\Ansible-test.dll
+C:\Users\nibba\source\repos\Ansible-test\Ansible-test\bin\Debug\net6.0\Ansible-test.pdb
+C:\Users\nibba\source\repos\Ansible-test\Ansible-test\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\nibba\source\repos\Ansible-test\Ansible-test\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nibba\source\repos\Ansible-test\Ansible-test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nibba\source\repos\Ansible-test\Ansible-test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nibba\source\repos\Ansible-test\Ansible-test\obj\Debug\net6.0\Ansible-test.csproj.AssemblyReference.cache
+C:\Users\nibba\source\repos\Ansible-test\Ansible-test\obj\Debug\net6.0\Ansible-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nibba\source\repos\Ansible-test\Ansible-test\obj\Debug\net6.0\Ansible-test.AssemblyInfoInputs.cache
+C:\Users\nibba\source\repos\Ansible-test\Ansible-test\obj\Debug\net6.0\Ansible-test.AssemblyInfo.cs
+C:\Users\nibba\source\repos\Ansible-test\Ansible-test\obj\Debug\net6.0\Ansible-test.csproj.CoreCompileInputs.cache
+C:\Users\nibba\source\repos\Ansible-test\Ansible-test\obj\Debug\net6.0\Ansible-test.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nibba\source\repos\Ansible-test\Ansible-test\obj\Debug\net6.0\Ansible-test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nibba\source\repos\Ansible-test\Ansible-test\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nibba\source\repos\Ansible-test\Ansible-test\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nibba\source\repos\Ansible-test\Ansible-test\obj\Debug\net6.0\scopedcss\bundle\Ansible-test.styles.css
+C:\Users\nibba\source\repos\Ansible-test\Ansible-test\obj\Debug\net6.0\Ansible-test.csproj.CopyComplete
+C:\Users\nibba\source\repos\Ansible-test\Ansible-test\obj\Debug\net6.0\Ansible-test.dll
+C:\Users\nibba\source\repos\Ansible-test\Ansible-test\obj\Debug\net6.0\refint\Ansible-test.dll
+C:\Users\nibba\source\repos\Ansible-test\Ansible-test\obj\Debug\net6.0\Ansible-test.pdb
+C:\Users\nibba\source\repos\Ansible-test\Ansible-test\obj\Debug\net6.0\Ansible-test.genruntimeconfig.cache
+C:\Users\nibba\source\repos\Ansible-test\Ansible-test\obj\Debug\net6.0\ref\Ansible-test.dll
+C:\Users\nibba\OneDrive\Desktop\work\ansible-test\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nibba\OneDrive\Desktop\work\ansible-test\bin\Debug\net6.0\appsettings.json
+C:\Users\nibba\OneDrive\Desktop\work\ansible-test\bin\Debug\net6.0\Ansible-test.exe
+C:\Users\nibba\OneDrive\Desktop\work\ansible-test\bin\Debug\net6.0\Ansible-test.deps.json
+C:\Users\nibba\OneDrive\Desktop\work\ansible-test\bin\Debug\net6.0\Ansible-test.runtimeconfig.json
+C:\Users\nibba\OneDrive\Desktop\work\ansible-test\bin\Debug\net6.0\Ansible-test.dll
+C:\Users\nibba\OneDrive\Desktop\work\ansible-test\bin\Debug\net6.0\Ansible-test.pdb
+C:\Users\nibba\OneDrive\Desktop\work\ansible-test\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\nibba\OneDrive\Desktop\work\ansible-test\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nibba\OneDrive\Desktop\work\ansible-test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nibba\OneDrive\Desktop\work\ansible-test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nibba\OneDrive\Desktop\work\ansible-test\obj\Debug\net6.0\Ansible-test.csproj.AssemblyReference.cache
+C:\Users\nibba\OneDrive\Desktop\work\ansible-test\obj\Debug\net6.0\Ansible-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nibba\OneDrive\Desktop\work\ansible-test\obj\Debug\net6.0\Ansible-test.AssemblyInfoInputs.cache
+C:\Users\nibba\OneDrive\Desktop\work\ansible-test\obj\Debug\net6.0\Ansible-test.AssemblyInfo.cs
+C:\Users\nibba\OneDrive\Desktop\work\ansible-test\obj\Debug\net6.0\Ansible-test.csproj.CoreCompileInputs.cache
+C:\Users\nibba\OneDrive\Desktop\work\ansible-test\obj\Debug\net6.0\Ansible-test.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nibba\OneDrive\Desktop\work\ansible-test\obj\Debug\net6.0\Ansible-test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nibba\OneDrive\Desktop\work\ansible-test\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nibba\OneDrive\Desktop\work\ansible-test\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nibba\OneDrive\Desktop\work\ansible-test\obj\Debug\net6.0\scopedcss\bundle\Ansible-test.styles.css
+C:\Users\nibba\OneDrive\Desktop\work\ansible-test\obj\Debug\net6.0\Ansible-test.csproj.CopyComplete
+C:\Users\nibba\OneDrive\Desktop\work\ansible-test\obj\Debug\net6.0\Ansible-test.dll
+C:\Users\nibba\OneDrive\Desktop\work\ansible-test\obj\Debug\net6.0\refint\Ansible-test.dll
+C:\Users\nibba\OneDrive\Desktop\work\ansible-test\obj\Debug\net6.0\Ansible-test.pdb
+C:\Users\nibba\OneDrive\Desktop\work\ansible-test\obj\Debug\net6.0\Ansible-test.genruntimeconfig.cache
+C:\Users\nibba\OneDrive\Desktop\work\ansible-test\obj\Debug\net6.0\ref\Ansible-test.dll
+C:\Users\nibba\OneDrive\Desktop\work\go in\ansible_demo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nibba\OneDrive\Desktop\work\go in\ansible_demo\bin\Debug\net6.0\appsettings.json
+C:\Users\nibba\OneDrive\Desktop\work\go in\ansible_demo\bin\Debug\net6.0\Ansible-test.exe
+C:\Users\nibba\OneDrive\Desktop\work\go in\ansible_demo\bin\Debug\net6.0\Ansible-test.deps.json
+C:\Users\nibba\OneDrive\Desktop\work\go in\ansible_demo\bin\Debug\net6.0\Ansible-test.runtimeconfig.json
+C:\Users\nibba\OneDrive\Desktop\work\go in\ansible_demo\bin\Debug\net6.0\Ansible-test.dll
+C:\Users\nibba\OneDrive\Desktop\work\go in\ansible_demo\bin\Debug\net6.0\Ansible-test.pdb
+C:\Users\nibba\OneDrive\Desktop\work\go in\ansible_demo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\nibba\OneDrive\Desktop\work\go in\ansible_demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nibba\OneDrive\Desktop\work\go in\ansible_demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nibba\OneDrive\Desktop\work\go in\ansible_demo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nibba\OneDrive\Desktop\work\go in\ansible_demo\obj\Debug\net6.0\Ansible-test.csproj.AssemblyReference.cache
+C:\Users\nibba\OneDrive\Desktop\work\go in\ansible_demo\obj\Debug\net6.0\Ansible-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nibba\OneDrive\Desktop\work\go in\ansible_demo\obj\Debug\net6.0\Ansible-test.AssemblyInfoInputs.cache
+C:\Users\nibba\OneDrive\Desktop\work\go in\ansible_demo\obj\Debug\net6.0\Ansible-test.AssemblyInfo.cs
+C:\Users\nibba\OneDrive\Desktop\work\go in\ansible_demo\obj\Debug\net6.0\Ansible-test.csproj.CoreCompileInputs.cache
+C:\Users\nibba\OneDrive\Desktop\work\go in\ansible_demo\obj\Debug\net6.0\Ansible-test.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nibba\OneDrive\Desktop\work\go in\ansible_demo\obj\Debug\net6.0\Ansible-test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nibba\OneDrive\Desktop\work\go in\ansible_demo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nibba\OneDrive\Desktop\work\go in\ansible_demo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nibba\OneDrive\Desktop\work\go in\ansible_demo\obj\Debug\net6.0\scopedcss\bundle\Ansible-test.styles.css
+C:\Users\nibba\OneDrive\Desktop\work\go in\ansible_demo\obj\Debug\net6.0\Ansible-test.csproj.CopyComplete
+C:\Users\nibba\OneDrive\Desktop\work\go in\ansible_demo\obj\Debug\net6.0\Ansible-test.dll
+C:\Users\nibba\OneDrive\Desktop\work\go in\ansible_demo\obj\Debug\net6.0\refint\Ansible-test.dll
+C:\Users\nibba\OneDrive\Desktop\work\go in\ansible_demo\obj\Debug\net6.0\Ansible-test.pdb
+C:\Users\nibba\OneDrive\Desktop\work\go in\ansible_demo\obj\Debug\net6.0\Ansible-test.genruntimeconfig.cache
+C:\Users\nibba\OneDrive\Desktop\work\go in\ansible_demo\obj\Debug\net6.0\ref\Ansible-test.dll

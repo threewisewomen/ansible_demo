@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "U6oqU+bUbXtBp1iH9zNWqk2uaNX1E/NHOScauNyW8YI=",
+  "Source": "Ansible-test",
+  "BasePath": "_content/Ansible-test",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
